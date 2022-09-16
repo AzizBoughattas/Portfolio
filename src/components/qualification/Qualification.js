@@ -6,7 +6,7 @@ const Qualification = () => {
   return (
     <section id='qualification'>
       <h5>My Personnal Journey</h5>
-      <h2>Qualification</h2>
+      <h2>Qualifications</h2>
 
       <div className='container qualification__container'>
         <article className='qualification'>
@@ -16,7 +16,7 @@ const Qualification = () => {
           <ul className='qualification__list'>
             <li>
               <BiCheck className='qualification__list-icon' />
-              <p className='qualification__item'> Farhat Hached Highschool - Rades <h5>Baccalaureate computer science - 2016</h5></p>
+              <p className='qualification__item'> Farhat Hached Highschool - Rades <h5>Baccalaureate computer science | 2016</h5></p>
             </li>
             <li>
               <BiCheck className='qualification__list-icon' />
@@ -32,7 +32,7 @@ const Qualification = () => {
 
         <article className='qualification'>
           <div className='qualification__head'>
-            <h3>Internship</h3>
+            <h3>Internships</h3>
           </div>
           <ul className='qualification__list'>
             <li>

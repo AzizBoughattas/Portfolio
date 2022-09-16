@@ -9,7 +9,7 @@ const Certificate = () => {
   return (
     <section id="certificate">
       <h5>My Recent Work</h5>
-      <h2>Certificate</h2>
+      <h2>Certificates</h2>
       <div className="container certificate__container">
         <article className="certificate__item">
           <div className="certificate__item-image">

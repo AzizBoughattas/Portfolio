@@ -8,7 +8,7 @@ import { ImBook } from "react-icons/im";
 const About = () => {
   return (
     <section id="about">
-      <h5>Get To Know</h5>
+      <h5>Who am I ?</h5>
       <h2>About me</h2>
       <div className="container about__container">
         <div className="about__me">
@@ -37,13 +37,13 @@ const About = () => {
             obtained their LATI bachelor's degree at one of Tunisia's most
             famous universities, the IHEC. I am driven by the motivation to
             excel in this domain and contribute while exploring the
-            opportunities that unfold ahead. Through the years spent in
+            opportunities that unfold ahead.<br /> Through the years spent in
             university and the projects I got the chance to work on with a
             group, I have collected quite the knowledge and skills. From good
             research skills and problem solving, to the ability to manage
             multiple projects while meeting deadlines, I am confident in my
             performance level, especially after indulging in quite a few online
-            courses and training . Discovering this endless world of
+            courses and training . <br /> Discovering this endless world of
             information is what made me attached to this discipline, where I
             hope to offer my expertise wherever needed.
             <span style={{color:"#fff"}}>
