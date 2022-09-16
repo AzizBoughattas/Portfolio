@@ -88,6 +88,9 @@
     .experience__container {
         gap: 1rem;
     }
+    .experience__content {
+        grid-template-columns: 60px;
+    }
 
     .experience__container > div {
         width: 100%;

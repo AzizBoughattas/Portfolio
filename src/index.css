@@ -127,6 +127,10 @@ img {
 /* ============ MEDIA QUERIES (SMALL DEVICES) ================== */
 
 @media screen and (max-width: 600px) {
+  body,html {
+    max-width: 100%;
+    overflow-x: hidden;
+  }
   .container {
     width: var(--container-width-sm);
   }
